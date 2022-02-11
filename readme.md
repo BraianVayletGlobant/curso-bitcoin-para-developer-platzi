@@ -11,6 +11,13 @@
 - Clase7: [Minando un bloque](#Minando-un-bloque)
 - Clase8: [Cambiando las reglas de consenso (forks)](<#Cambiando-las-reglas-de-consenso-(forks)>)
 - Clase9: [Transacciones: outputs e inputs](#Transacciones:-outputs-e-inputs)
+- Clase10: [Script](#Script)
+- Clase11: [Transaction fees](#Transaction-fees)
+- Clase12: [Llaves públicas y privadas / Bitcoin addresses](#Llaves-públicas-y-privadas-/-Bitcoin-addresses)
+- Clase13: [Formatos de llaves](#Formatos-de-llaves)
+- Clase14: [Tipos de wallets: nondeterministic, deterministic](#Tipos-de-wallets:-nondeterministic,-deterministic)
+- Clase15: [Seeds and mnemonic codes](#Seeds-and-mnemonic-codes)
+- Clase16: Conclusión
 
 ## Introducción
 
@@ -81,3 +88,46 @@ _Según esta herramienta: [Bitcoin Node Count History](https://luke.dashjr.org/p
 > - [https://luke.dashjr.org/programs/bitcoin/files/charts/historical.html](https://luke.dashjr.org/programs/bitcoin/files/charts/historical.html)
 
 ## Transacciones: outputs e inputs
+
+...
+
+## Script
+
+...
+
+## Transaction fees
+
+...
+
+## Llaves públicas y privadas / Bitcoin addresses
+
+> Links:
+>
+> - [https://es.wikipedia.org/wiki/Criptograf%C3%ADa_de_curva_el%C3%ADptica](https://es.wikipedia.org/wiki/Criptograf%C3%ADa_de_curva_el%C3%ADptica)
+> - [https://cryptography.io/en/latest/development/custom-vectors/secp256k1/](https://cryptography.io/en/latest/development/custom-vectors/secp256k1/)
+> - [https://learn.bybit.com/es/blockchain-es/claves-publicas-claves-privadas/](https://learn.bybit.com/es/blockchain-es/claves-publicas-claves-privadas/)
+
+## Formatos de llaves
+
+> Links:
+>
+> - [https://github.com/bitcoinbook/bitcoinbook/blob/develop/code/key-to-address-ecc-example.py](https://github.com/bitcoinbook/bitcoinbook/blob/develop/code/key-to-address-ecc-example.py)
+
+## Tipos de wallets: nondeterministic, deterministic
+
+...
+
+## Seeds and mnemonic codes
+
+#### ¿Qué es un mnemónico?
+
+Una representación de un número aleatorio a través de 12/24 palabras muy sencillas de escribir.
+
+> Links:
+>
+> - [https://github.com/btcontract/wallet](https://github.com/btcontract/wallet)
+> - [https://play.google.com/store/apps/details?id=com.btcontract.wallet&amp;hl=en_US&amp;gl=US](https://play.google.com/store/apps/details?id=com.btcontract.wallet&hl=en_US&gl=US)
+
+## Conclusión
+
+...
